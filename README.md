@@ -1,1 +1,1 @@
-"# Alzheimer-s-Disease-Classification" 
+The jupyter notebooks contain necessary info about the best_model's structure and has the classification reports, confusion matrix and class-wise classification reports too. Check the transfer_learning jupyter notebook for all this.
